@@ -13,7 +13,7 @@
 - 🔭 Currently building: **Data Structures & Algorithms in C++**
 - 🌱 Grinding problems on **LeetCode**, **Codeforces**, and **GeeksForGeeks**
 - 💡 Focused on mastering: **Arrays · Sorting · Searching · Recursion · Trees · DP**
-- 🎯 2025 Goal: Solve **500+ DSA problems** and land a great SDE role
+- 🎯 2026 Goal: Solve **500+ DSA problems** and land a great SDE role
 - 📍 Based in **India**
 - 💬 Ask me about **C++, DSA, competitive programming**
 
