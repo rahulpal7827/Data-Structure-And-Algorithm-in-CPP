@@ -1,0 +1,16 @@
+statement -
+int first {5} is equal to int first = 5
+
+std:: cout --> means print data to the console(terminal)
+std:: cin --> means read data from the console
+std:: cerr --> means print error to the console(terminal)
+std:: clog --> means print log messages to the console(terminal).
+
+
+we can put multiple input like -std::cin>>name >> age >> rollno;
+
+
+TO get space strings:
+we have to write-> std::getline(std::cin, variable);
+
+Array contain zero if you dont't initialize the values.
